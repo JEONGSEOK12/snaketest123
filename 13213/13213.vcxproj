@@ -127,7 +127,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\234423\CPlusPlus\Snake\Body.cpp" />
+    <ClCompile Include="..\..\234423\CPlusPlus\Snake\BodyMonitor.cpp" />
+    <ClCompile Include="..\..\234423\CPlusPlus\Snake\ConsoleEngineCore.cpp" />
+    <ClCompile Include="..\..\234423\CPlusPlus\Snake\ConsoleMath.cpp" />
+    <ClCompile Include="..\..\234423\CPlusPlus\Snake\ConsoleObject.cpp" />
+    <ClCompile Include="..\..\234423\CPlusPlus\Snake\ConsoleScreen.cpp" />
+    <ClCompile Include="..\..\234423\CPlusPlus\Snake\Head.cpp" />
+    <ClCompile Include="..\..\234423\CPlusPlus\Snake\Part.cpp" />
     <ClCompile Include="13213.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\234423\CPlusPlus\Snake\Body.h" />
+    <ClInclude Include="..\..\234423\CPlusPlus\Snake\BodyMonitor.h" />
+    <ClInclude Include="..\..\234423\CPlusPlus\Snake\ConsoleEngineCore.h" />
+    <ClInclude Include="..\..\234423\CPlusPlus\Snake\ConsoleMath.h" />
+    <ClInclude Include="..\..\234423\CPlusPlus\Snake\ConsoleObject.h" />
+    <ClInclude Include="..\..\234423\CPlusPlus\Snake\ConsoleScreen.h" />
+    <ClInclude Include="..\..\234423\CPlusPlus\Snake\Head.h" />
+    <ClInclude Include="..\..\234423\CPlusPlus\Snake\Part.h" />
+    <ClInclude Include="..\..\234423\CPlusPlus\Snake\테스트제한사항.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
